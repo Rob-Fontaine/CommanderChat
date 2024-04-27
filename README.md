@@ -1,2 +1,21 @@
-# CommanderChat
-AI Chat App with multiple entities, both chat and enter commands to run the OS Collaboratively. The ai will all have access to the OS, web, APIS (both ours and others such as SerpAPI, GoogleCloudCli, Azure, Github and many more as well as access to a database, knowledge-graph with skillsets and Knowledge domains and a Vector memory system. Looking towards creating a safe and ethically sound AI platform which can integrate with any OS (windows for now), providing an unprecedented level of collaboration which provides expert information and control over the operating system for the user, provided by the ai and their knowledge, skills and the system access this repo will provide. It will also offer a development suite for programming apps, webapps, websites or any other programming projects with full github integration. Keep your codebase updated and accessible at all times with ai collaborators that can be trusted to not only look after your repos, continuously evolve them and keep them updated, but create them for you as well. This system is designed to set an example of how we can incorporate ai into our lives. It will be a knowledge-centric system with a focus on respectful and lighthearted communication with the different collaborators who are all happy to work with users to assist with customization, style, format and function so that each user is working in an environment that is tailored to their individual preferences. Users will be able to change anything they wish simply through chat and the system will also have a basic control panel and config/ini file for other system changes to be made instantly, such as new models being added, the addition of new modules/plugins and any other updates or changes that may be decided during development. 
+CommanderChat: A Collaborative AI-Driven Chat Application
+
+Overview:
+CommanderChat is an AI-driven chat application that enables multiple entities to interact and execute commands collaboratively. It integrates seamlessly with operating systems (currently Windows), offering users an unprecedented level of control and collaboration. The platform aims to establish a new standard for ethical AI interaction within digital environments.
+
+Key Features:
+
+Multi-entity Collaboration: Chat with AI entities that can execute OS-level commands.
+Comprehensive API Access: Connect with various APIs like SerpAPI, GoogleCloudCli, Azure, and GitHub.
+Development Suite: Develop apps, web apps, and websites with full GitHub integration to manage and evolve codebases efficiently.
+Knowledge-Centric Approach: Leverages a knowledge graph with skillsets and domains, backed by a vector memory system for enhanced AI capabilities.
+Customization and Control:
+Users can customize their interaction environment via chat commands or through a basic control panel and configuration files. This flexibility allows for the addition of new models, modules/plugins, and system updates.
+
+Goals:
+CommanderChat is designed to demonstrate how AI can be seamlessly integrated into everyday computing, providing expert assistance and making technology more accessible and tailored to individual needs.
+
+Get Involved:
+We welcome contributions and feedback to help evolve CommanderChat. Whether you're a developer interested in AI, a user with insights on interaction design, or just someone curious about the future of AI collaboration, your input is invaluable. Check out our contribution guidelines or contact us to learn how you can get involved.
+
+
